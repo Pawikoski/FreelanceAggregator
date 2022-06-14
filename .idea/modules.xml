@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/freelanceBot.iml" filepath="$PROJECT_DIR$/.idea/freelanceBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../freelanceAggregator/.idea/freelanceAggregator.iml" filepath="$PROJECT_DIR$/../freelanceAggregator/.idea/freelanceAggregator.iml" />
     </modules>
   </component>
 </project>
